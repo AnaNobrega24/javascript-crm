@@ -1,11 +1,18 @@
 {
-    "clientes":[
-        {
-            "id": "1",
-            "nome": "Maria",
-            "email": "Maria@gmail.com",
-            "telefone": "8844445555",
-            "data": "00/00/0000"
-        }
-    ]
+  "clientes": [
+    {
+      "id": 1,
+      "nome": "Maria",
+      "email": "Maria@gmail.com",
+      "telefone": "8844445555",
+      "data": "00/00/0000"
+    },
+    {
+      "nome": "João",
+      "email": "Joao@gmail.com",
+      "telefone": "88 4444 5555 ",
+      "data": "06052025",
+      "id": 2
+    }
+  ]
 }
